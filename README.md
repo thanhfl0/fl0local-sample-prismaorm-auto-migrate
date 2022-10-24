@@ -1,0 +1,1 @@
+# fl0local-sample-prismaorm-auto-migrate
